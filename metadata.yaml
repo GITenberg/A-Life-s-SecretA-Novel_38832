@@ -1,0 +1,33 @@
+_repo: A-Life-s-SecretA-Novel_38832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Price, Ellen
+    - Wood, Mrs. Henry
+    - Wood, Ellen Price
+    - Ludlow, Johnny
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strikes and lockouts -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: 'A Life''s Secret: A Novel'
+url: http://www.gutenberg.org/ebooks/38832
